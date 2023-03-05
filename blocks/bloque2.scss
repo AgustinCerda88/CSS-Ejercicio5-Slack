@@ -85,10 +85,7 @@
                 font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
                 font-weight: 700;
                 line-height: 1;
-                letter-spacing: normal;
                 font-size: 3rem;
-                white-space: nowrap;
-                display: inline-block;
                 margin-bottom: 0.25rem;
                 text-align: center;
                 
@@ -102,19 +99,7 @@
             }
                
         }
-        .vidyoutube {
-            margin-top: 10px;
-            max-height: 220px;
-            max-width: 350px;
-            display: flex;
-            border-top-right-radius: 500px;
-            border-bottom-right-radius: 500px;
-            margin-left: 0px;
-            padding-left: 0px;
-            vertical-align: baseline;
-            align-items: baseline;
-            margin-bottom: 30px;
-        }
+        
         .selecciona__hemos{
             width: 90%;
             display: flex;
@@ -182,6 +167,16 @@
 
         }
 
+    }
+    .vidyoutube {
+        margin-top: 10px;
+        max-height: 220px;
+        max-width: 350px;
+        border-top-right-radius: 500px;
+        border-bottom-right-radius: 500px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-bottom: 30px;
     }
 
 }

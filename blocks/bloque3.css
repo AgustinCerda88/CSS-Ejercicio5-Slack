@@ -37,7 +37,8 @@
   color: #1264a3;
   padding-left: 0px;
 }
-.bloque3 img {
+.bloque3 .img {
   align-items: center;
+  margin-left: 50px;
   padding-top: 20px;
 }/*# sourceMappingURL=bloque3.css.map */
